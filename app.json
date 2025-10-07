@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "App-Loja",
+    "slug": "App-Loja",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/SacolaLogo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "avatar": "./assets/avatar.png"
+    }
+  }
+}
